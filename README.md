@@ -1,3 +1,4 @@
 coinslide
 =========
-asfdsdf
+
+An image slider . 
